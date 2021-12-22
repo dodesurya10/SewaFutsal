@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.dewadode.sewafutsal"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:6:5-26:19
+12        android:allowBackup="true"
+12-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:7:9-35
+13        android:icon="@mipmap/ic_launcher"
+13-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:8:9-43
+14        android:label="@string/app_name"
+14-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:9:9-41
+15        android:roundIcon="@mipmap/ic_launcher_round"
+15-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:10:9-54
+16        android:supportsRtl="true"
+16-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:11:9-35
+17        android:theme="@style/AppTheme" >
+17-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:13:9-40
+18        <activity android:name="com.dewadode.sewafutsal.activity.MainActivity" >
+18-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:14:9-20:20
+18-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:14:19-56
+19            <intent-filter>
+19-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:15:13-19:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:16:17-69
+20-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:16:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:18:17-77
+22-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:18:27-74
+23            </intent-filter>
+24        </activity>
+25        <activity android:name="com.dewadode.sewafutsal.activity.DaftarLapanganActivity" />
+25-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:21:9-69
+25-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:21:19-66
+26        <activity android:name="com.dewadode.sewafutsal.activity.PenyewaActivity" />
+26-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:22:9-62
+26-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:22:19-59
+27        <activity android:name="com.dewadode.sewafutsal.activity.SewaLapanganActivity" />
+27-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:23:9-67
+27-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:23:19-64
+28        <activity android:name="com.dewadode.sewafutsal.activity.DetailLapanganActivity" />
+28-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:24:9-69
+28-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:24:19-66
+29        <activity android:name="com.dewadode.sewafutsal.activity.DetailPenyewaActivity" />
+29-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:25:9-68
+29-->D:\Dokumen & Tugas\TI UNUD\Semester 5\Praktikum Pemrograman Mobile 2021\SewaFutsal\app\src\main\AndroidManifest.xml:25:19-65
+30    </application>
+31
+32</manifest>
