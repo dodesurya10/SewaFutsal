@@ -59,6 +59,7 @@ public class MainActivity extends AppCompatActivity {
                         "Sewa Booking Futsal adalah aplikasi untuk membantu player" +
                                 " untuk melakukan booking sewa lapangan futsal" +
                                 " disimpan ke dalam database\n\n" +
+                                "Kelompok : 23\n" +
                                 "Nama  : I Dewa Gede Suryadiantha Wedagama\n" +
                                 "NIM     : 1905551138"
                 );

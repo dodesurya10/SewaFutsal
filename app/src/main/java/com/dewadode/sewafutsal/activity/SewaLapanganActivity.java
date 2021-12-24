@@ -99,16 +99,16 @@ public class SewaLapanganActivity extends AppCompatActivity implements AdapterVi
                 }
 
                 if (weekday.isChecked()) {
-                    dPromo = 0.10;
+                    dPromo = 0.1;
                 } else if (weekend.isChecked()) {
                     dPromo = 0.25;
                 }
 
-                if (sMerk.equals("SINTETIS A")) {
-                    iHarga = 120000;
-                } else if (sMerk.equals("SINTETIS B")) {
-                    iHarga = 100000;
-                } else if (sMerk.equals("VINYL")) {
+                if (sMerk.equals("Sintetis A")) {
+                    iHarga = 90000;
+                } else if (sMerk.equals("Sintetis B")) {
+                    iHarga = 90000;
+                } else if (sMerk.equals("Vinyl")) {
                     iHarga = 125000;
                 }
 
@@ -126,9 +126,9 @@ public class SewaLapanganActivity extends AppCompatActivity implements AdapterVi
                                 "Alamat : \n" + sAlamat + "\n\n"+
                                 "No HP : \n" + sNo + "\n\n"
                 );
+                    builder.setPositiveButton("Ya", new DialogInterface.OnClickListener() {     //method button positive desicion
 
-                builder.setPositiveButton("Ya", new DialogInterface.OnClickListener() { //method button positive desicion
-                    @Override
+                @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
                         SQLiteDatabase dbH = dbHelper.getWritableDatabase();
                         dbH.execSQL("INSERT INTO penyewa (nama, alamat, no_hp) VALUES ('" +

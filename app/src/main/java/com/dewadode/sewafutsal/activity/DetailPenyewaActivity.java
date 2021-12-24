@@ -108,6 +108,7 @@ public class DetailPenyewaActivity extends AppCompatActivity {
                 builder.setPositiveButton("Ya", new DialogInterface.OnClickListener() { //method button positive desicion
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
+                        Toast.makeText(DetailPenyewaActivity.this, "Berhasil diubah", Toast.LENGTH_SHORT).show();
                         SQLiteDatabase dbH = dbHelper.getWritableDatabase();
                         dbH.execSQL("UPDATE penyewa SET nama = '" +  sNama + "' , alamat = '" + sAlamat + "' , no_hp = '" + sHP + "' WHERE nama = '" + getIntent().getStringExtra("nama") + "'");
                         dbH.execSQL("UPDATE sewa SET nama = " +  sNama + " WHERE nama = " + getIntent().getStringExtra("nama"));

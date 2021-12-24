@@ -89,7 +89,7 @@ public class PenyewaActivity extends AppCompatActivity {
 
             public void onItemClick(AdapterView arg0, View arg1, int arg2, long arg3) {
                 final String selection = daftar[arg2];
-                final CharSequence[] dialogitem = {"Lihat Data", "Hapus Data"};
+                final CharSequence[] dialogitem = {"Lihat dan Update Data", "Hapus Data"};
                 AlertDialog.Builder builder = new AlertDialog.Builder(PenyewaActivity.this);
                 builder.setTitle("Pilihan");
                 builder.setItems(dialogitem, new DialogInterface.OnClickListener() {

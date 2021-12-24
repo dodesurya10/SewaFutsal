@@ -20,12 +20,12 @@ com/dewadode/sewafutsal/activity/PenyewaActivity.java
  com.dewadode.sewafutsal.activity.PenyewaActivity$1
  com.dewadode.sewafutsal.activity.PenyewaActivity$2
  com.dewadode.sewafutsal.activity.PenyewaActivity$2$1
-com/dewadode/sewafutsal/activity/DaftarLapanganActivity.java
- com.dewadode.sewafutsal.activity.DaftarLapanganActivity
- com.dewadode.sewafutsal.activity.DaftarLapanganActivity$1
 com/dewadode/sewafutsal/activity/SewaLapanganActivity.java
  com.dewadode.sewafutsal.activity.SewaLapanganActivity
  com.dewadode.sewafutsal.activity.SewaLapanganActivity$1
  com.dewadode.sewafutsal.activity.SewaLapanganActivity$2
  com.dewadode.sewafutsal.activity.SewaLapanganActivity$2$1
  com.dewadode.sewafutsal.activity.SewaLapanganActivity$2$2
+com/dewadode/sewafutsal/activity/DaftarLapanganActivity.java
+ com.dewadode.sewafutsal.activity.DaftarLapanganActivity
+ com.dewadode.sewafutsal.activity.DaftarLapanganActivity$1

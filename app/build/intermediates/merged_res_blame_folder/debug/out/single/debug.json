@@ -1,134 +1,134 @@
 [
     {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\ic_date.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_lapangan.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_detail_lapangan.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vinyl.jpg.flat",
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_vinyl.jpg.flat",
         "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable-v24\\vinyl.jpg"
     },
     {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sintetis1.jpg.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable-v24\\sintetis1.jpg"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mobil_home.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\ic_mobil_home.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bola.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\bola.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_tv.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\anim\\anim_tv.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sewa.xml.flat",
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sewa.xml.flat",
         "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_sewa.xml"
     },
     {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bola1.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\bola1.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_textview.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\background_textview.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_bg_home_curve.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\bg_home_curve.xml"
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail_lapangan.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_detail_lapangan.xml"
     },
     {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_bg_home_wave.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\bg_home_wave.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\button_background.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_penyewa.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_penyewa.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lapangan.xml.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_lapangan.xml"
-    },
-    {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_penyewa.xml.flat",
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_detail_penyewa.xml.flat",
         "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_detail_penyewa.xml"
     },
     {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_item.xml.flat",
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_sintetis1.jpg.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable-v24\\sintetis1.jpg"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_penyewa.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_penyewa.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_background.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bola1.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\bola1.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_mobil_home.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\ic_mobil_home.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_lapangan.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\layout\\activity_lapangan.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg_home_wave.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable-v24\\bg_home_wave.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_item.xml.flat",
         "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\background_item.xml"
     },
     {
-        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
-        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\back.png"
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable_bola.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\bola.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_textview.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\background_textview.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_date.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\ic_date.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\anim_anim_tv.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\anim\\anim_tv.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg_home_curve.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable-v24\\bg_home_curve.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Dokumen & Tugas\\TI UNUD\\Semester 5\\Praktikum Pemrograman Mobile 2021\\SewaFutsal\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     }
 ]
